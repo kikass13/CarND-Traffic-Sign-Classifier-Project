@@ -8,10 +8,16 @@
 
 #### 1. Provide a basic summary of the data set. In the code, the analysis should be done using python, numpy and/or pandas methods rather than hardcoding results manually.
 
+
+
 Number of training examples = 34799
+
 Number of validation examples = 4410
+
 Number of testing examples = 12630
+
 Image data shape = (32, 32, 1)
+
 Number of classes = 43
 
 
